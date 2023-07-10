@@ -228,6 +228,32 @@ footer {
 }
 
 /** Velvet-section end  **/
+/** OSKAR-SECTION START **/
+
+.oskar-section {
+    background-color: #b19167ce;
+}
+
+.oskar-portrait {
+    border: 3px solid white;
+    width : 300px;
+}
+
+.oskar-text {
+    color         : black;
+    padding-top   : 20px;
+    padding-bottom: 20px;
+    padding-left  : 50px;
+    padding-right : 50px;
+}
+
+footer {
+    padding-top   : 50px;
+    padding-bottom: 50px;
+    color         : grey;
+}
+
+/** Oskar-section end  **/
 
 /** MEDIA QUERIES **/
 
